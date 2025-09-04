@@ -2,7 +2,7 @@
 This project involves an analysis of sales data from a coffee shop. The main objective is to understand customer purchasing behavior, identify popular menu items, determine peak sales periods, and uncover other interesting trends from the transaction data.
   
   # 1. Data Overview
-    The dataset used for this analysis contains transaction records for coffee and other beverages sold between March 1, 2024, and March 3, 2025. Each record includes the following details:
+  The dataset used for this analysis contains transaction records for coffee and other beverages sold between March 1, 2024, and March 3, 2025. Each record includes the following details:
       • hour_of_day: The hour the transaction occurred (24-hour format).
       • cash_type: The payment method used (all transactions in this dataset are 'card').
       • money: The price of the item.
@@ -25,7 +25,7 @@ This project involves an analysis of sales data from a coffee shop. The main obj
     |    5 |            15 | card        |   33.8  | Americano with Milk | Afternoon     | Fri       | Mar          |             5 |           3 | 2024-03-01 | 15:39:47.726000 |
 
   # 3. Key Findings & Observations
-    From an initial exploration of the data, several interesting points have emerged:
+  From an initial exploration of the data, several interesting points have emerged:
       • Payment Method: All transactions within this dataset were paid by 'card'.
       • Peak Sales Times: Sales occur throughout the day, with transactions recorded as early as 7 AM and as late as 10 PM.
           ◦ Morning (Morning): Busiest hours appear to be between 8 AM and 11 AM.
@@ -36,6 +36,6 @@ This project involves an analysis of sales data from a coffee shop. The main obj
           ◦ Cappuccino: Started at a price of 38.7, then was adjusted to 37.72, and later to 35.76
           ◦ Espresso: Showed multiple price points, including 24.0, 23.02, 18.12, and 21.06
   # 4. How to Use This Project
-      1. Clone the repository:
-      2. Install dependencies (e.g., if using Python for analysis):
-      3. Run the analysis: Open and run the Jupyter Notebook file to see the data processing and visualizations.
+  1. Clone the repository:
+  2. Install dependencies (e.g., if using Python for analysis):
+  3. Run the analysis: Open and run the Jupyter Notebook file to see the data processing and visualizations.
