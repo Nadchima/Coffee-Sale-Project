@@ -2,16 +2,16 @@
 This project involves an analysis of sales data from a coffee shop. The main objective is to understand customer purchasing behavior, identify popular menu items, determine peak sales periods, and uncover other interesting trends from the transaction data.
   
   # 1. Data Overview
-  The dataset used for this analysis contains transaction records for coffee and other beverages sold between March 1, 2024, and March 3, 2025. Each record includes the following details:
-      • hour_of_day: The hour the transaction occurred (24-hour format).
-      • cash_type: The payment method used (all transactions in this dataset are 'card').
-      • money: The price of the item.
-      • coffee_name: The name of the menu item ordered.
-      • Time_of_Day: A categorical division of the day (Morning, Afternoon, Night).
-      • Weekday: The day of the week.
-      • Month_name: The name of the month.
-      • Date: The full date of the transaction.
-      • Time: The precise time of the transaction.
+  The dataset used for this analysis contains transaction records for coffee and other beverages sold between March 1, 2024, and March 3, 2025. Each record includes the following details:  
+      • hour_of_day: The hour the transaction occurred (24-hour format).  
+      • cash_type: The payment method used (all transactions in this dataset are 'card').  
+      • money: The price of the item.  
+      • coffee_name: The name of the menu item ordered.  
+      • Time_of_Day: A categorical division of the day (Morning, Afternoon, Night).  
+      • Weekday: The day of the week.  
+      • Month_name: The name of the month.  
+      • Date: The full date of the transaction.  
+      • Time: The precise time of the transaction.  
 
   # 2. Sample Data:
   
