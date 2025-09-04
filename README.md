@@ -1,5 +1,5 @@
 # Coffee Sales Data Analysis
-&nbsp;&nbsp;&nbsp;&nbsp;This project involves an analysis of sales data from a coffee shop. The main objective is to understand customer purchasing behavior, identify popular menu items, determine peak sales periods, and uncover other interesting trends from the transaction data.
+This project involves an analysis of sales data from a coffee shop. The main objective is to understand customer purchasing behavior, identify popular menu items, determine peak sales periods, and uncover other interesting trends from the transaction data.
   
   # 1. Data Overview
 The dataset used for this analysis contains transaction records for coffee and other beverages sold between March 1, 2024, and March 3, 2025. Each record includes the following details:    
@@ -25,7 +25,7 @@ The dataset used for this analysis contains transaction records for coffee and o
     |    5 |            15 | card        |   33.8  | Americano with Milk | Afternoon     | Fri       | Mar          |             5 |           3 | 2024-03-01 | 15:39:47.726000 |
 
   # 3. Key Findings & Observations
-&nbsp;&nbsp;&nbsp;&nbsp;From an initial exploration of the data, several interesting points have emerged:  
+From an initial exploration of the data, several interesting points have emerged:  
 &nbsp;&nbsp;&nbsp;&nbsp;• Payment Method: All transactions within this dataset were paid by 'card'.  
 &nbsp;&nbsp;&nbsp;&nbsp;• Peak Sales Times: Sales occur throughout the day, with transactions recorded as early as 7 AM and as late as 10 PM.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ Morning (Morning): Busiest hours appear to be between 8 AM and 11 AM.  
