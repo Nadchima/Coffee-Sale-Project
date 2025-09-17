@@ -1,8 +1,15 @@
-# Coffee Sales Data Analysis
-This project involves an analysis of sales data from a coffee shop. The main objective is to understand customer purchasing behavior, identify popular menu items, determine peak sales periods, and uncover other interesting trends from the transaction data.
-  
-  # 1. Data Overview
-The dataset used for this analysis contains transaction records for coffee and other beverages sold between March 1, 2024, and March 3, 2025. Each record includes the following details:    
+# Coffee Sales Analysis
+This project analyzes coffee shop sales data to uncover insights about customer preferences, peak sales times, and revenue patterns. The analysis includes identifying best-selling products, peak hours, and monthly trends.
+
+# 1. Dataset Details
+
+Source: [Coffee Sales Dataset by Navjot Kaushal on Kaggle](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)  
+
+Format: CSV
+
+# 2. Dataset Structure
+
+&nbsp;&nbsp;**Columns (features):**  
   &nbsp;&nbsp;&nbsp;&nbsp;• **hour_of_day:** The hour the transaction occurred (24-hour format).    
   &nbsp;&nbsp;&nbsp;&nbsp;• **cash_type:** The payment method used (all transactions in this dataset are 'card').    
   &nbsp;&nbsp;&nbsp;&nbsp;• **money:** The price of the item.    
@@ -12,6 +19,18 @@ The dataset used for this analysis contains transaction records for coffee and o
   &nbsp;&nbsp;&nbsp;&nbsp;• **Month_name:** The name of the month.    
   &nbsp;&nbsp;&nbsp;&nbsp;• **Date:** The full date of the transaction.    
   &nbsp;&nbsp;&nbsp;&nbsp;• **Time:** The precise time of the transaction.    
+
+ ## 3. Project Highlights  
+
+- **Best-selling coffee**: Americano with Milk  
+  Units sold: 809 | Revenue: $24,751 USD  
+- **Peak sales hour**: 10:00 AM  
+- **Peak sales amount (hourly)**: $10,199 USD  
+- **Average daily sales**: $295 USD  
+- **Total sales**: $112,246 USD  
+- **Month with highest sales**: March | Revenue: $15,892 USD  
+- **Day with highest sales**: Tuesday | Revenue: $18,168 USD  
+
 
   # 2. Sample Data:
   
