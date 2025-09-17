@@ -22,8 +22,7 @@ Format: CSV
 
  ## 3. Project Highlights  
 
-- **Best-selling coffee**: Americano with Milk  
-  Units sold: 809 | Revenue: $24,751 USD  
+- **Best-selling coffee**: Americano with Milk | Units sold: 809 | Revenue: $24,751 USD  
 - **Peak sales hour**: 10:00 AM  
 - **Peak sales amount (hourly)**: $10,199 USD  
 - **Average daily sales**: $295 USD  
