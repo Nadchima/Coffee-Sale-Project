@@ -1,7 +1,7 @@
 # Coffee Sales Analysis
 This project analyzes coffee shop sales data to uncover insights about customer preferences, peak sales times, and revenue patterns. The analysis includes identifying best-selling products, peak hours, and monthly trends.
 
-# 1. Dataset Details
+** 1. Dataset Details**  
 
 Source: [Coffee Sales Dataset by Navjot Kaushal on Kaggle](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)  
 
