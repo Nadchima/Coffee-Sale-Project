@@ -68,7 +68,8 @@ This dataset contains coffee shop sales transactions, including coffee types, tr
 &nbsp;&nbsp;**• Top-selling Coffee (Bar chart)**  
 *Bar chart showing units sold by coffee type (Latte is the best seller)*    
 
-<img width="992" height="590" alt="image" src="https://github.com/user-attachments/assets/6f7a7aa8-ddfd-4c61-9693-c1f99fc28f89" />
+[View Chart](<img width="992" height="590" alt="image" src="https://github.com/user-attachments/assets/269f83c0-4547-4478-878f-5ca484e13562" />
+)  
 
 
 
