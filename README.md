@@ -11,9 +11,9 @@ The goal of this project is to demonstrate data cleaning, exploratory data analy
 • Google Colab    
 
 • Kaggle Dataset    
-&nbsp;&nbsp;&nbsp;&nbsp; Source: [Coffee Sales Dataset by Navjot Kaushal on Kaggle](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Source: [Coffee Sales Dataset by Navjot Kaushal on Kaggle](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)    
 
-&nbsp;&nbsp;&nbsp;&nbsp; Format: CSV  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Format: CSV  
 
 ## 3. Dataset Structure
 
@@ -30,31 +30,36 @@ The goal of this project is to demonstrate data cleaning, exploratory data analy
 
  ## 4. Project Highlights  
 
-&nbsp;&nbsp;&nbsp;&nbsp;- **Top Coffee by Units Sold:** Americano with Milk Units sold: 809
-&nbsp;&nbsp;&nbsp;&nbsp;- **Top Coffee by Revenue:** Latte  ,Revenue: $26,875 USD
-&nbsp;&nbsp;&nbsp;&nbsp;- **Peak sales hour:** 10:00 AM  ,Sales volume: $10,199 USD
-&nbsp;&nbsp;&nbsp;&nbsp;- **Average daily sales:** $295 USD
-&nbsp;&nbsp;&nbsp;&nbsp;- **Total sales:** $112,246 USD
-&nbsp;&nbsp;&nbsp;&nbsp;- **Highest daily sales (weekday):** Tue  ,Revenue: $18,168 USD
-&nbsp;&nbsp;&nbsp;&nbsp;- **Month with highest sales:** Mar  ,Revenue: $15,892 USD
-&nbsp;&nbsp;&nbsp;&nbsp;- **Top Revenue Period:** Night  ,Total Sales: $38,186.34 USD
+&nbsp;&nbsp;&nbsp;&nbsp;- **Top Coffee by Units Sold:** Americano with Milk Units sold: 809  
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **Top Coffee by Revenue:** Latte  ,Revenue: $26,875 USD  
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **Peak sales hour:** 10:00 AM  ,Sales volume: $10,199 USD  
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **Average daily sales:** $295 USD  
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **Total sales:** $112,246 USD  
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **Highest daily sales (weekday):** Tue  ,Revenue: $18,168 USD  
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **Month with highest sales:** Mar  ,Revenue: $15,892 USD  
+
+&nbsp;&nbsp;&nbsp;&nbsp;- **Top Revenue Period:** Night  ,Total Sales: $38,186.34 USD  
+
 
 ## 5. Data Visualization    
 &nbsp;&nbsp;**• Top-selling Coffee (Bar chart)**  
-&nbsp;&nbsp;&nbsp;&nbsp; Top-selling coffee by quantity: Americano with Milk - 809 Units    
-&nbsp;&nbsp;&nbsp;&nbsp; Top-selling coffee by revenue: Latte - $26,875 USD    
+
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/c267f968-bb3f-43c8-89c3-26eb528d140e" />
 
 
 &nbsp;&nbsp;**• Monthly Sales Trend (Bar chart)**  
-&nbsp;&nbsp;&nbsp;&nbsp; Peak month: Mar - $15,892 USD  
-&nbsp;&nbsp;&nbsp;&nbsp; Average monthly: $9,354 USD  
+
 <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/dfc43644-9ab6-4c6c-837e-7d2ee1474356" />
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**• Sales by Hour (Bar chart)**    
-&nbsp;&nbsp;&nbsp;&nbsp; Peak Time sales : 10:00 AM  
-&nbsp;&nbsp;&nbsp;&nbsp; Peak sales amount: $10,199 USD  
+
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/af809663-adda-4414-9d3d-87c319e0c934" />
 
 
