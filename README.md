@@ -50,15 +50,20 @@ The goal of this project is to demonstrate data cleaning, exploratory data analy
 ## 5. Data Visualization    
 &nbsp;&nbsp;**• Top-selling Coffee (Bar chart)**  
 
+
 <img width="992" height="590" alt="image" src="https://github.com/user-attachments/assets/6f7a7aa8-ddfd-4c61-9693-c1f99fc28f89" />
+
 
 
 &nbsp;&nbsp;**• Monthly Sales Trend (Bar chart)**  
 
+
 <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/dfc43644-9ab6-4c6c-837e-7d2ee1474356" />
 
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;**• Sales by Hour (Bar chart)**    
+
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/af809663-adda-4414-9d3d-87c319e0c934" />
 
