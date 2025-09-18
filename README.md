@@ -22,13 +22,21 @@ Format: CSV
 
  ## 3. Project Highlights  
 
-- **Best-selling coffee**: Americano with Milk | Units sold: 809 | Revenue: $24,751 USD  
-- **Peak sales hour**: 10:00 AM  
-- **Peak sales amount (hourly)**: $10,199 USD  
-- **Average daily sales**: $295 USD  
-- **Total sales**: $112,246 USD  
-- **Month with highest sales**: March | Revenue: $15,892 USD  
-- **Day with highest sales**: Tuesday | Revenue: $18,168 USD  
+- **Top Coffee by Units Sold:** Americano with Milk Units sold: 809
+
+- **Top Coffee by Revenue:** Latte  ,Revenue: $26,875 USD
+
+- **Peak sales hour:** 10:00 AM  ,Sales volume: $10,199 USD
+
+- **Average daily sales:** $295 USD
+
+- **Total sales:** $112,246 USD
+
+- **Highest daily sales (weekday):** Tue  ,Revenue: $18,168 USD
+
+- **Month with highest sales:** Mar  ,Revenue: $15,892 USD
+
+- **Top Revenue Period:** Night  ,Total Sales: $38,186.34 USD
 
 
   # 2. Sample Data:
