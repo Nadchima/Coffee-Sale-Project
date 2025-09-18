@@ -47,23 +47,40 @@ The goal of this project is to demonstrate data cleaning, exploratory data analy
 &nbsp;&nbsp;&nbsp;&nbsp;- **Top Revenue Period:** Night  ,Total Sales: $38,186.34 USD  
 
 
-## 5. Data Visualization    
-&nbsp;&nbsp;**• Top-selling Coffee (Bar chart)**  
+## **5. Data Story**  
 
+### Context    
+This dataset contains coffee shop sales transactions, including coffee types, transaction amounts, dates, and times. The goal is to understand customer preferences, peak sales hours, and revenue trends to optimize menu planning and marketing strategies.  
+
+### Insight  
+- **Top Coffee:** Latte is the best-selling coffee, generating the highest revenue.    
+- **Peak Hour:** 10:00 AM is the busiest time, indicating high morning demand.    
+- **Highest Monthly & Daily Sales:** March and Tuesdays show the most revenue, reflecting seasonal and weekly trends.    
+- **Revenue by Period:** Nighttime also contributes significantly to overall sales, showing a secondary peak.    
+
+### Action  
+- Focus marketing campaigns on best-selling items like Latte to maximize revenue.    
+- Schedule staff to match peak hours, especially at 10:00 AM and evening periods.    
+- Plan promotions or inventory for March and Tuesdays to meet higher demand.    
+- Consider extending operational strategies for nighttime customers.    
+
+## 6. Data Visualization    
+&nbsp;&nbsp;**• Top-selling Coffee (Bar chart)**  
+*Bar chart showing units sold by coffee type (Latte is the best seller)*    
 
 <img width="992" height="590" alt="image" src="https://github.com/user-attachments/assets/6f7a7aa8-ddfd-4c61-9693-c1f99fc28f89" />
 
 
 
-&nbsp;&nbsp;**• Monthly Sales Trend (Bar chart)**  
-
+&nbsp;&nbsp;**• Monthly Sales Trend (Bar chart)**    
+*Bar chart showing revenue by month (March had the highest sales)*  
 
 <img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/dfc43644-9ab6-4c6c-837e-7d2ee1474356" />
 
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;**• Sales by Hour (Bar chart)**    
-
+*Bar chart showing revenue by hour (10:00 AM is the peak)*  
 
 <img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/af809663-adda-4414-9d3d-87c319e0c934" />
 
