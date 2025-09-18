@@ -1,13 +1,21 @@
 # Coffee Sales Analysis
 This project analyzes coffee shop sales data to uncover insights about customer preferences, peak sales times, and revenue patterns. The analysis includes identifying best-selling products, peak hours, and monthly trends.
 
-## 1. Dataset Details
+## 1. Project Objective
+The goal of this project is to demonstrate data cleaning, exploratory data analysis (EDA), and insight generation using Python and real-world sales data.
 
-Source: [Coffee Sales Dataset by Navjot Kaushal on Kaggle](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)  
+## 2. Tools & Libraries Used  
 
-Format: CSV
+• Python (Pandas, Matplotlib, Seaborn, NumPy)  
 
-## 2. Dataset Structure
+• Google Colab    
+
+• Kaggle Dataset    
+&nbsp;&nbsp; Source: [Coffee Sales Dataset by Navjot Kaushal on Kaggle](https://www.kaggle.com/datasets/navjotkaushal/coffee-sales-dataset)    
+
+&nbsp;&nbsp; Format: CSV  
+
+## 3. Dataset Structure
 
 &nbsp;&nbsp;**Columns (features):**  
   &nbsp;&nbsp;&nbsp;&nbsp;• **hour_of_day:** The hour the transaction occurred (24-hour format).    
@@ -20,7 +28,7 @@ Format: CSV
   &nbsp;&nbsp;&nbsp;&nbsp;• **Date:** The full date of the transaction.    
   &nbsp;&nbsp;&nbsp;&nbsp;• **Time:** The precise time of the transaction.    
 
- ## 3. Project Highlights  
+ ## 4. Project Highlights  
 
 - **Top Coffee by Units Sold:** Americano with Milk Units sold: 809
 
@@ -38,30 +46,22 @@ Format: CSV
 
 - **Top Revenue Period:** Night  ,Total Sales: $38,186.34 USD
 
+## 5. Data Visualization  
+• Top-selling Coffee (Bar chart)
+&nbsp;&nbsp;&nbsp;&nbsp; Top-selling coffee by quantity: Americano with Milk - 809 Units  
+&nbsp;&nbsp;&nbsp;&nbsp; Top-selling coffee by revenue: Latte - $26,875 USD  
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/c267f968-bb3f-43c8-89c3-26eb528d140e" />
 
-  # 2. Sample Data:
-  
-    |      |   hour_of_day | cash_type   |   money | coffee_name         | Time_of_Day   | Weekday   | Month_name   |   Weekdaysort |   Monthsort | Date       | Time            |
-    |-----:|--------------:|:------------|--------:|:--------------------|:--------------|:----------|:-------------|--------------:|------------:|:-----------|:----------------|
-    |    0 |            10 | card        |   38.7  | Latte               | Morning       | Fri       | Mar          |             5 |           3 | 2024-03-01 | 10:15:50.520000 |
-    |    1 |            12 | card        |   38.7  | Hot Chocolate       | Afternoon     | Fri       | Mar          |             5 |           3 | 2024-03-01 | 12:19:22.539000 |
-    |    2 |            12 | card        |   38.7  | Hot Chocolate       | Afternoon     | Fri       | Mar          |             5 |           3 | 2024-03-01 | 12:20:18.089000 |
-    |    3 |            13 | card        |   28.9  | Americano           | Afternoon     | Fri       | Mar          |             5 |           3 | 2024-03-01 | 13:46:33.006000 |
-    |    4 |            13 | card        |   38.7  | Latte               | Afternoon     | Fri       | Mar          |             5 |           3 | 2024-03-01 | 13:48:14.626000 |
-    |    5 |            15 | card        |   33.8  | Americano with Milk | Afternoon     | Fri       | Mar          |             5 |           3 | 2024-03-01 | 15:39:47.726000 |
 
-  # 3. Key Findings & Observations
-From an initial exploration of the data, several interesting points have emerged:  
-&nbsp;&nbsp;&nbsp;&nbsp;• **Payment Method:** All transactions within this dataset were paid by 'card'.  
-&nbsp;&nbsp;&nbsp;&nbsp;• **Peak Sales Times:** Sales occur throughout the day, with transactions recorded as early as 7 AM and as late as 10 PM.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ **Morning (Morning):** Busiest hours appear to be between 8 AM and 11 AM.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ **Afternoon (Afternoon):** This is a consistently busy period, with a high volume of sales from 12 PM to 4 PM.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ **Night (Night):** Sales continue into the evening, with a significant number of transactions occurring between 5 PM and 9 PM.  
-&nbsp;&nbsp;&nbsp;&nbsp;• **Price Adjustments:** The prices of several menu items appear to change over time. This suggests dynamic pricing or updates to the menu.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ **Americano with Milk:** Initially priced at 33.8, it was later sold for 32.82, and eventually 30.86  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ **Cappuccino:** Started at a price of 38.7, then was adjusted to 37.72, and later to 35.76  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;◦ **Espresso:** Showed multiple price points, including 24.0, 23.02, 18.12, and 21.06  
-  # 4. How to Use This Project
-  &nbsp;&nbsp;&nbsp;&nbsp;1. **Clone the repository:**  
-  &nbsp;&nbsp;&nbsp;&nbsp;2. **Install dependencies** (e.g., if using Python for analysis):  
-  &nbsp;&nbsp;&nbsp;&nbsp;3. **Run the analysis:** Open and run the Jupyter Notebook file to see the data processing and visualizations.  
+• Monthly Sales Trend (Bar chart)
+&nbsp;&nbsp;&nbsp;&nbsp; Peak month: Mar - $15,892 USD
+&nbsp;&nbsp;&nbsp;&nbsp; Average monthly: $9,354 USD
+<img width="989" height="490" alt="image" src="https://github.com/user-attachments/assets/dfc43644-9ab6-4c6c-837e-7d2ee1474356" />
+
+
+• Sales by Hour (Bar chart)  
+&nbsp;&nbsp;&nbsp;&nbsp; Peak Time sales : 10:00 AM
+&nbsp;&nbsp;&nbsp;&nbsp; Peak sales amount: $10,199 USD
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/af809663-adda-4414-9d3d-87c319e0c934" />
+
+
